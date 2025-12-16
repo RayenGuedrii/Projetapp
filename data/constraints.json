@@ -1,0 +1,8 @@
+{
+  "volume_total": 1.0,
+  "attr_bounds": {
+    "sucre": [50.0, 200.0],
+    "acidite": [3.3, 3.9]
+  },
+  "budget_max": null
+}
