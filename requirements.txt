@@ -1,0 +1,6 @@
+pulp
+PyQt5
+matplotlib
+pytest
+# Optional: faster commercial solver (requires a Gurobi license)
+# gurobipy
